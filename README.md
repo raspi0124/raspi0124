@@ -11,4 +11,4 @@
 - Qualifications
   - Registered Information Security Specialist (Information-technology Promotion Agency, Japan)
   - Applied Information Technology Engineer (Information-technology Promotion Agency, Japan)
-  - EIKEN Grade 1, Recognized (Eiken Foundation of Japan)
+  - EIKEN Grade 1 (Eiken Foundation of Japan)

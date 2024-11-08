@@ -5,10 +5,10 @@
   - [All Colleges Student’s Representative Council](https://www.stb.tsukuba.ac.jp/~zdk) Information-technology Processing Committee
 - Latest Interests:
   - Recommendation Systems
-  - Library (Especially: Small & Private Libraries in Japan)
+  - Libraries (Especially: Small & Private Libraries in Japan)
 - Works
   - To Be Added Soon...
 - Qualifications
-  - Security Specialist (Registered), Recognized By Information-technology Promotion Agency - Japan
-  - Applied Information Technology Engineer, Recognized By Information-technology Promotion Agency - Japan
-  - EIKEN Grade 1, Recognized By Eiken Foundation of Japan
+  - Registered Information Security Specialist (Information-technology Promotion Agency, Japan)
+  - Applied Information Technology Engineer (Information-technology Promotion Agency, Japan)
+  - EIKEN Grade 1, Recognized (Eiken Foundation of Japan)

@@ -1,10 +1,12 @@
 # raspi0124
-- B3
+- B4
   - Studying LIS at University of Tsukuba (klis22)
   - [Sohosai](https://sohosai.com) jsys23
   - [All Colleges Student’s Representative Council](https://www.stb.tsukuba.ac.jp/~zdk) Information-technology Processing Committee
 - Latest Interests:
-  - Recommendation Systems
+  - Information Retrieval
+     - Recommendation System
+     - Search Engine
   - Libraries (Especially: Small & Private Libraries in Japan)
 - Works
   - To Be Added Soon...

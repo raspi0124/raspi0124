@@ -5,10 +5,8 @@
   - [All Colleges Student’s Representative Council](https://www.stb.tsukuba.ac.jp/~zdk) Information-technology Processing Committee
 - Latest Interests:
   - Information Retrieval Systems
-     - Recommendation System
-     - Search Engine
   - Libraries
-  -   Especially Interested in Small & Private Libraries in Japan
+    - Especially Interested in Small & Private Libraries in Japan
 - Works
   - To Be Added Soon...
 - Qualifications

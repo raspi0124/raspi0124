@@ -4,13 +4,18 @@
   - [Sohosai](https://sohosai.com) jsys23
   - [All Colleges Student’s Representative Council](https://www.stb.tsukuba.ac.jp/~zdk) Information-technology Processing Committee
 - Latest Interests:
-  - Information Retrieval
+  - Information Retrieval Systems
      - Recommendation System
      - Search Engine
-  - Libraries (Especially: Small & Private Libraries in Japan)
+  - Libraries
+  -   Especially Interested in Small & Private Libraries in Japan
 - Works
   - To Be Added Soon...
 - Qualifications
-  - Registered Information Security Specialist (Information-technology Promotion Agency, Japan)
-  - Applied Information Technology Engineer (Information-technology Promotion Agency, Japan)
-  - EIKEN Grade 1 (Eiken Foundation of Japan)
+  - Registered Information Security Specialist (情報処理安全確保支援士)
+    - Qualied By Information-technology Promotion Agency, Japan
+  - Applied Information Technology Engineer (応用情報技術者)
+    - Qualified By Information-technology Promotion Agency, Japan
+  - EIKEN Grade 1 (実用英語技能検定 1級)
+    - Qualified By Eiken Foundation of Japan
+  - IELTS 7.0 (Overall)

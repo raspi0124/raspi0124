@@ -1,10 +1,11 @@
 # raspi0124
-- B4
-  - Studying LIS at University of Tsukuba (klis22)
+- Graduate Student (Master's Program)
+  - Studying Informatics at University of Tsukuba
   - [Sohosai](https://sohosai.com) jsys23
   - [All Colleges Student’s Representative Council](https://www.stb.tsukuba.ac.jp/~zdk) Information-technology Processing Committee
 - Latest Interests:
   - Information Retrieval Systems
+    - Search Engines, Recommendation Systems...etc 
   - Libraries
     - Especially Interested in Small & Private Libraries in Japan
 - Works
